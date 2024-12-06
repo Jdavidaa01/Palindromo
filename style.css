@@ -59,3 +59,16 @@ label{
     padding-right: 10px;
     font-weight: bold;
 }
+span{
+   
+    color: whitesmoke;
+    border: 2px dashed white;
+    margin-left: 2px;
+}
+#result.hidden {
+    display: none;
+}
+
+#result {
+    display: block; /* Esto lo muestra solo cuando se activa */
+}
